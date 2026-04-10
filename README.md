@@ -23,6 +23,9 @@ Programming Languages**
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1aq4JziZNHbvNyC_wiMJPlgfiFUQlV_Zb/view?usp=drive_link](https://drive.google.com/file/d/1aq4JziZNHbvNyC_wiMJPlgfiFUQlV_Zb/view?usp=drive_link)**
 
+- ## 📫 Connect with me
+- 💼 LinkedIn: https://www.linkedin.com/in/mohamed-awadallah99/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2F7LTHTVcQKSySqTaVb6%2FKw%3D%3D
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Mo7amed3wadallah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Mo7amed3wadallah" height="30" width="40" /></a>
