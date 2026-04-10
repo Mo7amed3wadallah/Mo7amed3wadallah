@@ -2,9 +2,7 @@
 
 ### Business Intelligence Developer | Data Analyst | Power BI & SQL Specialist
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mo7amed3wadallah&label=Profile views&color=0e75b6&style=flat" alt="Mo7amed3wadallah" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mo7amed3wadallah" alt="Mo7amed3wadallah" /></a> </p>
 
 Turning data into clear insights and helping businesses make better decisions using dashboards, analytics, and automation.
 
