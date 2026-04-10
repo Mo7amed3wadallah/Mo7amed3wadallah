@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mohamed Awadallah Bakir
+<img width="454" height="48" alt="image" src="https://github.com/user-attachments/assets/502e1c51-7435-4166-b7e7-4fcaae3b0d66" /># Hi 👋, I'm Mohamed Awadallah Bakir
 
 ### Business Intelligence Developer | Data Analyst | Power BI & SQL Specialist
 
@@ -23,10 +23,13 @@ Programming Languages**
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1aq4JziZNHbvNyC_wiMJPlgfiFUQlV_Zb/view?usp=drive_link](https://drive.google.com/file/d/1aq4JziZNHbvNyC_wiMJPlgfiFUQlV_Zb/view?usp=drive_link)**
 
+- 💼 LinkedIn: https://www.linkedin.com/in/mohamed-awadallah99/
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Mo7amed3wadallah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Mo7amed3wadallah" height="30" width="40" /></a>
-<a href="[[https://linkedin.com/in/https://www.linkedin.com/in/mohamed-awadallah99/](https://www.linkedin.com/in/mohamed-awadallah99/)](https://www.linkedin.com/in/mohamed-awadallah99/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-awadallah99/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
