@@ -1,4 +1,5 @@
-<img width="454" height="48" alt="image" src="https://github.com/user-attachments/assets/502e1c51-7435-4166-b7e7-4fcaae3b0d66" /># Hi 👋, I'm Mohamed Awadallah Bakir
+
+Hi 👋, I'm Mohamed Awadallah Bakir
 
 ### Business Intelligence Developer | Data Analyst | Power BI & SQL Specialist
 
