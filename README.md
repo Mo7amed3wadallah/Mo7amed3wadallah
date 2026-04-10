@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mohamed Awadallah Bakir
 
-### A passionate Dart developer
+### Business Intelligence Developer | Data Analyst | Power BI & SQL Specialist
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mo7amed3wadallah&label=Profile views&color=0e75b6&style=flat" alt="Mo7amed3wadallah" /> </p>
 
