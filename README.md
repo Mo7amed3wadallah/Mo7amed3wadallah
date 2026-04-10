@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mo7amed3wadallah" alt="Mo7amed3wadallah" /></a> </p>
 
+Turning data into clear insights and helping businesses make better decisions using dashboards, analytics, and automation.
+
 - 🔭 I'm currently working on **Data Analyst in Muwasil Transportation**
 
 - 🌱 I'm currently learning ** Python, AI automation, and data engineering for advanced analytics**
