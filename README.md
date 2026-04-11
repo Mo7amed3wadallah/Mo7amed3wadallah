@@ -38,7 +38,3 @@ Programming Languages**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mo7amed3wadallah&show_icons=true&locale=en&layout=compact" alt="Mo7amed3wadallah" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mo7amed3wadallah&show_icons=true&locale=en" alt="Mo7amed3wadallah" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mo7amed3wadallah&" alt="Mo7amed3wadallah" /></p>
-
