@@ -3,17 +3,28 @@ Hi 👋, I'm Mohamed Awadallah Bakir
 
 ### Business Intelligence Developer | Data Analyst | Power BI & SQL Specialist
 
+### 🚀 Featured Project
+
+**[Muwasil Fleet Analytics](https://github.com/Mo7amed3wadallah/muwasil-fleet-analytics)**
+An end-to-end BI pipeline: Excel → SSIS → SQL Server → Power BI with Row-Level Security.
+
+- Built 8 SSIS packages with Lookups and error outputs, so no row is silently dropped
+- Designed a SQL Server schema and a monthly dues query (trips − diesel ± adjustments)
+- Power BI dashboards with dynamic RLS driven by a `user_access` table
+- Repository uses fully synthetic data
+
+![Dashboard](https://raw.githubusercontent.com/Mo7amed3wadallah/muwasil-fleet-analytics/main/docs/dashboard_overview.png)
 
 Turning data into clear insights and helping businesses make better decisions using dashboards, analytics, and automation.
 
 
 - 🔭 I'm currently working on **Data Analyst in Muwasil Transportation**
 
-- 🌱 I'm currently learning ** Python, AI automation, and data engineering for advanced analytics**
+- 🌱 I'm currently learning **Python, AI automation, and data engineering for advanced analytics**
 
-- 👯 I'm looking to collaborate on ** data-driven business solutions, BI dashboards, process automation, and AI-powered analytics tools**
+- 👯 I'm looking to collaborate on **data-driven business solutions, BI dashboards, process automation, and AI-powered analytics tools**
 
-- 🤝 I'm looking for help with ** advanced Python, data engineering best practices, and scalable AI automation architectures**
+- 🤝 I'm looking for help with **advanced Python, data engineering best practices, and scalable AI automation architectures**
 
 - 💬 Ask me about **Power BI dashboards, SQL reporting, Excel automation, KPI design, and business process improvement
 Programming Languages**
